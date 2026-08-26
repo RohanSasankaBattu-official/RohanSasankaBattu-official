@@ -37,7 +37,7 @@ rohan@architect:~$ cat profile.txt
 
 ---
 
-## `> ./about_me.sh`
+## 👨‍💻 About Me
 
 ```yaml
 name:        Rohan Sasanka Battu
@@ -57,7 +57,7 @@ open_to:     Architecture advisory · Remote / Global engagements
 
 ---
 
-## `> ./signature_achievements.log`
+## 🏆 Signature Achievements
 
 ```diff
 + [AI]      First AI-powered data platform — Snowflake Cortex + Semantic Views
@@ -71,7 +71,7 @@ open_to:     Architecture advisory · Remote / Global engagements
 
 ---
 
-## `> ./tech_stack --list`
+## 🛠️ Tech Stack
 
 **Cloud Data Platforms**
 
@@ -112,11 +112,11 @@ open_to:     Architecture advisory · Remote / Global engagements
 
 ---
 
-## `> ./github_stats --render`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanSasankaBattu-official&show_icons=true&count_private=true&hide_border=true&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanSasankaBattu-official&show_icons=true&count_private=true&hide_border=true&custom_title=Rohan+Sasanka+Battu+%C2%B7+GitHub+Stats&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSasankaBattu-official&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSasankaBattu-official&layout=compact&hide_border=true&title_color=39ff14&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
@@ -127,7 +127,7 @@ open_to:     Architecture advisory · Remote / Global engagements
 
 <div align="center">
 
-## `> ./career_timeline`
+## 🗂️ Career Timeline
 
 | Period | Role | Company | Client |
 |:---|:---|:---|:---|
